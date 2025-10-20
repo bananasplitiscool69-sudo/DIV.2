@@ -1,1 +1,5 @@
-
+title: DIV 2
+logo: docs/assets/VRPA.png
+description: VRPA DIV 2
+#show_downloads: true
+theme: jekyll-theme-minimal
